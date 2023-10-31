@@ -18,8 +18,14 @@ Quiz Creator is a simple web application built with Flask. It allows users to cr
 2. Navigate to the project directory:
    ```
    cd quiz-creator
+ 
    ```
-3. Install the required packages:
+3. Create a virtual environment:
+On Windows:
+   ```
+   python -m venv venv 
+   ```
+4. Install the required packages:
    ```
    pip install -r requirements.txt
    ```
